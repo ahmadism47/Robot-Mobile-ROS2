@@ -32,3 +32,5 @@ transmettre les ordres de direction et de vitesse.
 Afficher la valeur des capteurs.
 Afficher l' image de la Webcam.
 
+
+![My Photo](ensemble.svg)
